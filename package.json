@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "dn test && dn build -e prod"
+  },
+  "author": {
+    "name": "lishuangshuang",
+    "email": "chaselss@163.com",
+    "url": "http://chaselss.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "dependencies": {
+    "mobx": "^5.1.2",
+    "mobx-react": "^5.2.8"
+  }
+}
