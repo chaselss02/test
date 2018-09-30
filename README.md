@@ -1,6 +1,6 @@
 # dn-template-react
 
-这是一个 React 项目模板，默认安装了 react/react-dom，同时单元测试等基础设施都已配置完成。
+这是一个 React 项目模板，默认安装了 react/react-dom，同时单元测试等基础设施都已配置完成。.
 
 ## 使用
 
